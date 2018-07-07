@@ -15,4 +15,8 @@ set FLASK_APP=main.py
 flask run
 ```
 
-## create virtual environment
+## call tool
+
+```
+https://localhost:5000/good_day
+```
